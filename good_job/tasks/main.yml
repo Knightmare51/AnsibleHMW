@@ -1,0 +1,5 @@
+---
+# tasks file for good_job
+    - name: Display "Good job" message
+      debug:
+        msg: "Good job! Your playbook ran successfully."
